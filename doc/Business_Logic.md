@@ -1,4 +1,4 @@
-﻿<h3 ><strong>Tragedy of IT: Lack of an idea or BL. </strong></h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(BL = business logic)
+﻿<h3 ><strong>&nbsp;&nbsp;Tragedy of IT&nbsp;:&nbsp; Lack of an idea or BL. </strong></h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(BL = business logic)
 
 <p >The definition of BL in language of implementation - 
 that is why IT <strong>suffers</strong> from a complete lack of BL. It is always visible when a 
@@ -29,7 +29,7 @@ for BL. IT is finally willing to accept BL for their own IT needs. For the rest
 of the world, this is not the way. Machines should serve man, yet we are the 
 slaves of machines at this point.<o:p></o:p></p>
 <br />
-<h2><strong>Truth is the consensus of reality 
+<h2><strong>&nbsp;&nbsp;Truth is the consensus of reality 
 	with the idea</strong></h2>. <p>IT only has the reality that is what it is. Idea can be just 
 	BL, which can be robotic. For IT, everything is important, but there is 
 	nothing to catch. The rest of the world progresses from substantial to 
