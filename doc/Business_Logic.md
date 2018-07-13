@@ -1,4 +1,4 @@
-﻿<p ><strong>Tragedy of IT: Lack of BL. </strong>
+﻿<p ><strong>Tragedy of IT: Lack of BL. </strong>           (BL = business logic)
 </p>
 <p >The definition of BL in language of implementation - 
 that is why IT <strong>suffers</strong> from a complete lack of BL. It is always visible when a 
