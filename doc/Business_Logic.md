@@ -20,7 +20,7 @@ configurations, and various devops widgets.<o:p></o:p></p>
 and hiding BL. Then there apperas one version after another, incompatible 
 updates, many different variants even in one low level language, splitting 
 effort, very little reuse, the reuse is at all one of embarrassing IT 
-imperfections.<o:p></o:p></p>
+<strong>imperfections</strong>.<o:p></o:p></p>
 <br />
 <br />
 <p >What's going on (=BL ;-) ) - it can not be seen, of course. 
