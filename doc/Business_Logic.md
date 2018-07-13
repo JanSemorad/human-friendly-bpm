@@ -29,7 +29,7 @@ for BL. IT is finally willing to accept BL for their own IT needs. For the rest
 of the world, this is not the way. Machines should serve man, yet we are the 
 slaves of machines at this point.<o:p></o:p></p>
 <br />
-<p>T<strong>ruth is the consensus of reality 
+<p><strong>Truth is the consensus of reality 
 	with the idea</strong>. IT only has the reality that is what it is. Idea can be just 
 	BL, which can be robotic. For IT, everything is important, but there is 
 	nothing to catch. The rest of the world progresses from substantial to 
