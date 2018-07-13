@@ -33,7 +33,7 @@ slaves of machines at this point.<o:p></o:p></p>
 	with the idea</strong></h2>. <p>IT only has the reality that is what it is. Idea can be just 
 	BL, which can be robotic. For IT, everything is important, but there is 
 	nothing to catch. The rest of the world progresses from substantial to 
-	detail, so it works (although the detail is important ;-)). Unlike IT - in the rest of the world, it is a 
+	detail, so it works <i>(although the detail is important ;-))</i>. Unlike IT - in the rest of the world, it is a 
 <strong>targeted</strong>, scientific 
 	and convergent process from the outset.</p>
 
